@@ -11,6 +11,8 @@ I dont know.you say Icant do do anything from here beacause there is always some
 
 if they didnt allow me then what will we do? are you coming alone? if coming alone then definitely they wont let me come with you.
 </p>
+
+<p>will say no 100% sure. Okay you come . I dont know what will happen here.im getting tensed what to do? </p>
     </div>
   )
 }
