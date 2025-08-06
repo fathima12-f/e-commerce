@@ -19,6 +19,12 @@ function en() {
 <p>veran ivdnn vidande?</p>
 
 
+<p>naanu family alla frends nammal 3 aal vera vichariche . vannitt kaatyo indaa . inte abba seen aaku </p>
+<p>seen onnu aakule nammal nala beru berana para </p>
+<p>samsarikkan ketticherua choikku </p>
+<p>athava sammadichille enthaaku ni para </p>
+
+
     </div>
   )
 }
