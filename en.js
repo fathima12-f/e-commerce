@@ -28,7 +28,7 @@ function en() {
 
 <p>ok naaa veraa . nala uchakk shesho bera</p>
 
-
+<p>Okay nthavu ank areela</p>
     </div>
   )
 }
