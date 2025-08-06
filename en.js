@@ -25,6 +25,10 @@ function en() {
 <p>athava sammadichille enthaaku ni para </p>
 
 
+
+<p>ok naaa veraa . nala uchakk shesho bera</p>
+
+
     </div>
   )
 }
