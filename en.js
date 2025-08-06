@@ -12,6 +12,9 @@ function en() {
 
 <p>ank onnu thereenilla entha cheyyende 😑.ank enthenkilu paranna 😓.naan vannalu inte maamakku abbaku ok aakula . mamma anna block vare aaki  </p>
 <p>ni ok alle</p>
+<p> I will go know the will come back only in the morning. - ithenn paranne</p>
+<p>para ank areela entha cheyyende - keenu bernna . beral nadakkua . </p>
+
 
     </div>
   )
