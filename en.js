@@ -15,6 +15,8 @@ function en() {
 <p> I will go know the will come back only in the morning. - ithenn paranne</p>
 <p>para ank areela entha cheyyende - keenu bernna . beral nadakkua . </p>
 <p>ank entha parayande manassilavunnilla</p>
+<p>ath na ippo poya pinna ravilaye veran pattu</p>
+<p>veran ivdnn vidande?</p>
 
 
     </div>

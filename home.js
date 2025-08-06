@@ -8,6 +8,8 @@ function home() {
 I dont know what to do now. if you come here do you think they will allow me to go? if they didnt what will we do?
 
 I dont know.you say Icant do do anything from here beacause there is always somebody to watch me. if they cauth me once more then I dont know what will happen. I will go know the will come back only in the morning.
+
+if they didnt allow me then what will we do? are you coming alone? if coming alone then definitely they wont let me come with you.
 </p>
     </div>
   )
