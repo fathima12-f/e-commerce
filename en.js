@@ -14,6 +14,7 @@ function en() {
 <p>ni ok alle</p>
 <p> I will go know the will come back only in the morning. - ithenn paranne</p>
 <p>para ank areela entha cheyyende - keenu bernna . beral nadakkua . </p>
+<p>ank entha parayande manassilavunnilla</p>
 
 
     </div>
