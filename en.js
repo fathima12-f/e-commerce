@@ -8,6 +8,9 @@ function en() {
 <p>family called but no answer . i dont think they'll come there</p>
 
 
+<p>i don't know . should i come? . or tell me what i should do</p>
+
+
     </div>
   )
 }
