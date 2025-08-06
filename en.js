@@ -10,6 +10,8 @@ function en() {
 
 <p>i don't know . should i come? . or tell me what i should do</p>
 
+<p>ank onnu thereenilla entha cheyyende 😑.ank enthenkilu paranna 😓.naan vannalu inte maamakku abbaku ok aakula . mamma anna block vare aaki  </p>
+<p>ni ok alle</p>
 
     </div>
   )
