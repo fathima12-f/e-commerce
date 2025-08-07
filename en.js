@@ -8,6 +8,8 @@ function en() {
 
 
 <p>ok . ni pareene pole . ank onnu paraya kittinnilla</p>
+
+<p> means??</p>
     </div>
   )
 }
