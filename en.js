@@ -10,6 +10,7 @@ function en() {
 <p>ok . ni pareene pole . ank onnu paraya kittinnilla</p>
 
 <p> means??</p>
+<p>na nthaa cheyyende ni crct para</p>
     </div>
   )
 }
