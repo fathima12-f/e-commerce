@@ -7,6 +7,7 @@ function en() {
 <p>Daa ink areele na enganeya msg aakennen na ntha cheyyende ank onnu manassilavnnilla ni pinna nthekilu cheyya pattue cheyy onnu </p>
 
 
+<p>ok . ni pareene pole . ank onnu paraya kittinnilla</p>
     </div>
   )
 }
