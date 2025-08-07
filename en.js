@@ -12,6 +12,9 @@ function en() {
 <p> means??</p>
 <p>na nthaa cheyyende ni crct para</p>
 <p>Daa na oru kaaryo parayatte ni korch kynn oru job ello kitteet vann choikkuo athvare nammk contact onnu illand nikka ok aano?? Ni nthekilu para</p>
+
+
+<p> Haa ok</p>
     </div>
   )
 }
