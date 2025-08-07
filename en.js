@@ -3,7 +3,7 @@ import React from 'react'
 function en() {
   return (
     <div>
-   <p>Daa onnu nadakoola ni happy ayyt irikkk aakane</p>
+   <p>ingane poya na karanam inte lyfum illand aavum </p>
 
 
 
