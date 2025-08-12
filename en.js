@@ -3,7 +3,7 @@ import React from 'react'
 function en() {
   return (
     <div>
-  <p>Okay</p>
+  <p>dee . vilich edth . enthenkilu kettina</p>
     </div>
   )
 }
